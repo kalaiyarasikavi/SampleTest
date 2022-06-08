@@ -18,7 +18,7 @@ public class BrowserLaunch extends BaseClass{
 		
 		btnClick(l.getBtnClick());
 		
-		
+		System.out.println("Hiiiiii");
 	}
 
 }
